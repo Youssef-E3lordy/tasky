@@ -1,0 +1,5 @@
+# Count only authored code: exclude Flutter desktop/web scaffold from language stats.
+windows/** linguist-generated
+linux/** linguist-generated
+macos/** linguist-generated
+web/** linguist-generated
